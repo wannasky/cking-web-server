@@ -1,0 +1,19 @@
+{
+  "name": "cking-web-server",
+  "version": "1.0.0",
+  "description": "测试服务器",
+  "main": "index.js",
+  "keywords": [
+    "server"
+  ],
+  "author": "wannasky",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wannasky/cking-web-server.git"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "mime": "^1.3.6"
+  }
+}
