@@ -11,7 +11,7 @@ npm install cking-web-server --save
 
 1. 若与定义的路由匹配，则自定义返回内容（自定义路由支持：response.text,response.json,response.jsonUrl,response.renderUrl）
 2. 若没有匹配的路由规则，如果请求地址带后缀，则根据后缀返回相应格式的文件内容
-2. 若没有匹配的路由规则，如果请求地址不带后缀，则会返回json格式的文件内容（需提前准备，不然404）
+3. 若没有匹配的路由规则，如果请求地址不带后缀，则会返回json格式的文件内容（需提前准备，不然404）
 
 ## 使用
 
