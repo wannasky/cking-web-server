@@ -1,6 +1,6 @@
 {
   "name": "cking-web-server",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "测试服务器",
   "main": "index.js",
   "keywords": [
