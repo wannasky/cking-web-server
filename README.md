@@ -24,5 +24,9 @@ let server = webServer.create({
     test: '/json'           //测试json存放目录，相对于root，可为空
 });
 
+//服务器开始工作
 server.start();
+
+//用默认浏览器打开指定页面,第二个参数可以指定浏览器打开 eg:{app: 'firefox'}
+server.open('index.html');
 ```
